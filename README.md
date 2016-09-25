@@ -1,5 +1,7 @@
 # Expanding Collapsing TableView Sections
 
+Open and close sections of a table view.
+
 ## Useful links
 
 Expanding/Collapsing TableView Sections
@@ -13,3 +15,6 @@ https://github.com/Cocoanetics/DTFoundation/tree/master/Core/Source/iOS
 
 Documentation
 https://docs.cocoanetics.com/DTFoundation/Classes/DTCustomColoredAccessory.html#overview
+
+Another approach from Apple
+https://developer.apple.com/library/content/samplecode/TableViewUpdates/Introduction/Intro.html
