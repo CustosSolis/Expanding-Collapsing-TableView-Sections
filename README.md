@@ -1,4 +1,6 @@
-# Expanding-Collapsing-TableView-Sections
+# Expanding Collapsing TableView Sections
+
+## Useful links
 
 Expanding/Collapsing TableView Sections
 https://www.cocoanetics.com/2011/03/expandingcollapsing-tableview-sections/
