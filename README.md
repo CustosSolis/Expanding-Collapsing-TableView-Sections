@@ -1,4 +1,4 @@
-# Expanding Collapsing TableView Sections
+# Expanding/Collapsing TableView Sections
 
 Open and close sections of a table view.
 
